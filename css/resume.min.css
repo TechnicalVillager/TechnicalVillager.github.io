@@ -6,7 +6,6 @@ body{font-family:'Dosis',sans-serif;padding-top:54px;color:#444444;font-size:1.2
   font-family: 'Saira Extra Condensed';
   font-style: normal;
   font-weight: 100;
-  font-display: swap;
   src: local(''),
        url('../fonts/SairaExtraCondensed/saira-extra-condensed-v6-latin-100.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
        url('../fonts/SairaExtraCondensed/saira-extra-condensed-v6-latin-100.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
@@ -16,7 +15,6 @@ body{font-family:'Dosis',sans-serif;padding-top:54px;color:#444444;font-size:1.2
   font-family: 'Saira Extra Condensed';
   font-style: normal;
   font-weight: 200;
-  font-display: swap;
   src: local(''),
        url('../fonts/SairaExtraCondensed/saira-extra-condensed-v6-latin-200.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
        url('../fonts/SairaExtraCondensed/saira-extra-condensed-v6-latin-200.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
@@ -26,7 +24,6 @@ body{font-family:'Dosis',sans-serif;padding-top:54px;color:#444444;font-size:1.2
   font-family: 'Saira Extra Condensed';
   font-style: normal;
   font-weight: 300;
-  font-display: swap;
   src: local(''),
        url('../fonts/SairaExtraCondensed/saira-extra-condensed-v6-latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
        url('../fonts/SairaExtraCondensed/saira-extra-condensed-v6-latin-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
@@ -36,7 +33,6 @@ body{font-family:'Dosis',sans-serif;padding-top:54px;color:#444444;font-size:1.2
   font-family: 'Saira Extra Condensed';
   font-style: normal;
   font-weight: 400;
-  font-display: swap;
   src: local(''),
        url('../fonts/SairaExtraCondensed/saira-extra-condensed-v6-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
        url('../fonts/SairaExtraCondensed/saira-extra-condensed-v6-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
@@ -46,7 +42,6 @@ body{font-family:'Dosis',sans-serif;padding-top:54px;color:#444444;font-size:1.2
   font-family: 'Saira Extra Condensed';
   font-style: normal;
   font-weight: 500;
-  font-display: swap;
   src: local(''),
        url('../fonts/SairaExtraCondensed/saira-extra-condensed-v6-latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
        url('../fonts/SairaExtraCondensed/saira-extra-condensed-v6-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
@@ -56,7 +51,6 @@ body{font-family:'Dosis',sans-serif;padding-top:54px;color:#444444;font-size:1.2
   font-family: 'Saira Extra Condensed';
   font-style: normal;
   font-weight: 600;
-  font-display: swap;
   src: local(''),
        url('../fonts/SairaExtraCondensed/saira-extra-condensed-v6-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
        url('../fonts/SairaExtraCondensed/saira-extra-condensed-v6-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
@@ -66,7 +60,6 @@ body{font-family:'Dosis',sans-serif;padding-top:54px;color:#444444;font-size:1.2
   font-family: 'Saira Extra Condensed';
   font-style: normal;
   font-weight: 700;
-  font-display: swap;
   src: local(''),
        url('../fonts/SairaExtraCondensed/saira-extra-condensed-v6-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
        url('../fonts/SairaExtraCondensed/saira-extra-condensed-v6-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
@@ -76,7 +69,6 @@ body{font-family:'Dosis',sans-serif;padding-top:54px;color:#444444;font-size:1.2
   font-family: 'Saira Extra Condensed';
   font-style: normal;
   font-weight: 800;
-  font-display: swap;
   src: local(''),
        url('../fonts/SairaExtraCondensed/saira-extra-condensed-v6-latin-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
        url('../fonts/SairaExtraCondensed/saira-extra-condensed-v6-latin-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
@@ -86,7 +78,6 @@ body{font-family:'Dosis',sans-serif;padding-top:54px;color:#444444;font-size:1.2
   font-family: 'Saira Extra Condensed';
   font-style: normal;
   font-weight: 900;
-  font-display: swap;
   src: local(''),
        url('../fonts/SairaExtraCondensed/saira-extra-condensed-v6-latin-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
        url('../fonts/SairaExtraCondensed/saira-extra-condensed-v6-latin-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
@@ -98,7 +89,6 @@ body{font-family:'Dosis',sans-serif;padding-top:54px;color:#444444;font-size:1.2
   font-family: 'Dosis';
   font-style: normal;
   font-weight: 400;
-  font-display: swap;
   src: local(''),
        url('../fonts/Dosis/dosis-v19-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
        url('../fonts/Dosis/dosis-v19-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
@@ -109,7 +99,6 @@ body{font-family:'Dosis',sans-serif;padding-top:54px;color:#444444;font-size:1.2
   font-family: 'Dosis';
   font-style: normal;
   font-weight: 600;
-  font-display: swap;
   src: local(''),
        url('../fonts/Dosis/dosis-v19-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
        url('../fonts/Dosis/dosis-v19-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
